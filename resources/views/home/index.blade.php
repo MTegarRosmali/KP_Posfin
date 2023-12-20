@@ -42,9 +42,7 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="profil">Profil Perusahaan</a></li>
               <li><a class="dropdown-item" href="direksi">Direksi dan Komisaris</a></li>
-              <li>
-                <a class="dropdown-item" href="core">Core Value Akhlak</a>
-              </li>
+              <li><a class="dropdown-item" href="core">Core Value Akhlak</a></li>
             </ul>
           </li>
           <li class="nav-item">
